@@ -16,6 +16,8 @@
 
 ### Результат:
 
+<img width="589" alt="image" src="https://github.com/user-attachments/assets/6d7327ac-1c44-47c7-83db-58ab7797f596">
+
 2. Вывести количество лекций, которые читает преподаватель “Dave McQueen”.
 
 ### Скрипт запроса:
@@ -27,6 +29,8 @@
 
 ### Результат:
 
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/b2fa27f0-8084-4562-a4f1-bc42fd7cce50">
+
 3. Вывести количество занятий, проводимых в аудитории “D201”.
 
 ### Скрипт запроса:
@@ -37,6 +41,8 @@
 
 ### Результат:
 
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/6558491b-b708-4233-b938-63dd537ee383">
+
 4. Вывести названия аудиторий и количество лекций, проводимых в них.
 
 ### Скрипт запроса:
@@ -46,6 +52,8 @@
 * GROUP BY LectureRoom;
 
 ### Результат:
+
+<img width="688" alt="image" src="https://github.com/user-attachments/assets/b9293702-c362-44cb-abdc-ef33d1cb79ea">
 
 5. Вывести количество студентов, посещающих лекции преподавателя “Jack Underhill”.
 
@@ -60,6 +68,8 @@
 
 ### Результат:
 
+<img width="629" alt="image" src="https://github.com/user-attachments/assets/2bee5262-776b-4573-a47f-222cf418a610">
+
 6. Вывести среднюю ставку преподавателей факультета “Computer Science”.
 
 ### Скрипт запроса:
@@ -73,6 +83,8 @@
 
 ### Результат:
 
+<img width="696" alt="image" src="https://github.com/user-attachments/assets/e002345f-4a3f-4b9d-9902-e01a86408523">
+
 7. Вывести минимальное и максимальное количество студентов среди всех групп.
 
 ### Скрипт запроса:
@@ -83,6 +95,8 @@
 * FROM Groups g;
 
 ### Результат:
+
+<img width="698" alt="image" src="https://github.com/user-attachments/assets/5256fe33-0343-4405-884c-c09a35f75dd9">
 
 8. Вывести средний фонд финансирования кафедр.
 
