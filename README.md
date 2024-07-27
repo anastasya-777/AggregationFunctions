@@ -2,7 +2,13 @@
 
 ## Тема: Функции агрегирования.
 
-### Запросы
+## Данные в таблицах:
+
+<img width="812" alt="image" src="https://github.com/user-attachments/assets/f3ba77fd-0b43-4ed0-9d6e-1bef60ff7082">
+
+<img width="784" alt="image" src="https://github.com/user-attachments/assets/f8deae1d-2607-45ea-abf3-a8e37475f3e6">
+
+### Запросы по заданию:
 
 1. Вывести количество преподавателей кафедры “Software Development”.
 
